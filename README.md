@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Yehia
-![](https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif)
-
-I am Software engineer, i make analysis in data and flutter app development.
+<p align="center">
+  ![](https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif)
+  I am Software engineer, i make analysis in data and flutter app development.
+</p>
 
 - 🔭 I’m currently working on Student <img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
 - 🌱 I’m currently learning data analysis and big data 
