@@ -14,7 +14,7 @@
 </p>
 
 
-- 🔭 I’m currently working on Student <img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
+- 🔭 I’m currently working as Student <img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
 - 🌱 I’m currently learning data analysis and big data 
 - 💬 Ask me about anime and code 
 - ⚡ Fun fact: I am in a relationship with sleeping 
