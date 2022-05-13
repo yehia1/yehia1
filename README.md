@@ -10,7 +10,7 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MYsql" width="85" height="55"/> 
       <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="sqlServer" width="60" height="50"/>
-      <img src="https://jupyter.org/assets/share.png" alt="Jupyter_notebook" width="100" height="55"/>
+      <img src="https://jupyter.org/assets/share.png" alt="Jupyter_notebook" width="90" height="55"/>
 </p>
 
 
