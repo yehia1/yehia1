@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Yehia
 ![](https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif)
-I am Software engineer, i make analysis in data and flutter app development.
+
+**I am Software engineer, i make analysis in data and flutter app development.**
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/>
@@ -9,6 +10,7 @@ I am Software engineer, i make analysis in data and flutter app development.
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MYsql" width="85" height="55"/> 
       <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="sqlServer" width="60" height="50"/>
+      <img src="https://https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter_notebook" width="45" height="55"/>
   </p>
 
 
