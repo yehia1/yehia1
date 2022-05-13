@@ -3,7 +3,7 @@
 
 I am Software engineer, i make analysis in data and flutter app development.
 
-- 🔭 I’m currently working on Student https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif 
+- 🔭 I’m currently working on Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning data analysis and big data 
 - 💬 Ask me about anime and code 
 - ⚡ Fun fact: I am in a relationship with sleeping 
