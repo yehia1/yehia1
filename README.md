@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Yehia
 ![](https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif)
 
-**I am Software engineer, i make analysis in data and flutter app development.**
+**I am Software engineer, i do data analysis and make flutter app development.**
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/>
