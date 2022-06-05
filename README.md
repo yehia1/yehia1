@@ -14,7 +14,9 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Jupyter_notebook" width="70" height="55"/>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yehia1&label=Profile%20views&color=0e75b6&style=flat" alt="yehia1" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yehia1" alt="yehia1" /></a> </p>
 - 🔭 I’m currently working as Student <img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
 - 🌱 I’m currently learning data analysis and big data 
 - 💬 Ask me about anime and code 
