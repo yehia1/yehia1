@@ -29,14 +29,14 @@
 - ⚡ Fun fact: I am in a relationship with sleeping 
 
 <p align = "center">
-<a href="https://www.linkedin.com/in/yehia-mohamed-hossam-eldeen-a4a3331b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehia-mohamed-hossam-eldeen-a4a3331b7" height="10" width="40"></a> 
+<a href="https://www.linkedin.com/in/yehia-mohamed-hossam-eldeen-a4a3331b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehia-mohamed-hossam-eldeen-a4a3331b7" height="30" width="40"></a> 
 <a href="https://www.kaggle.com/yehiahossam" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Yehia hossam" height="30" width="40" /></a>   
  <a href="https://github.com/yehia1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Yehia hossam" height="30" width="40" /></a>
  
 </p>
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25'> My Github Stats:
 
 ![Yehia Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehia1&count_private=true&theme=dark&text_color=daf7dc&bg_color=191919&title_color=ffc857)
 
