@@ -21,18 +21,18 @@
 
 
 - 🔭 I’m currently working as Student <img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
-- 
+ 
 - 🌱 I’m currently learning data analysis and big data 
-- 
+ 
 - 💬 Ask me about anime and code 
-- 
+ 
 - ⚡ Fun fact: I am in a relationship with sleeping 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yehia1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yehia-mohamed-hossam-eldeen-a4a3331b7///)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/yehiahossam)
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px',height = '25px'> My Github Stats:
 
 ![Yehia Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehia1&count_private=true&theme=dark&text_color=daf7dc&bg_color=191919&title_color=ffc857)
 
