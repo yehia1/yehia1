@@ -29,7 +29,12 @@
 - ⚡ Fun fact: I am in a relationship with sleeping 
 
 <p align = "center">
-<[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yehia1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yehia-mohamed-hossam-eldeen-a4a3331b7///)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/yehiahossam)
+<a href="https://www.linkedin.com/in/yehia-mohamed-hossam-eldeen-a4a3331b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehia-mohamed-hossam-eldeen-a4a3331b7" height="30" width="40" /></a>
+ 
+<a href="https://www.kaggle.com/yehiahossam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Yehia hossam" height="30" width="40" /></a>
+      
+ <a href="https://github.com/yehia1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Yehia hossam" height="30" width="40" /></a>
+ 
 /> </p>
 
 ---
