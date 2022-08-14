@@ -20,7 +20,7 @@
 </p>
 
 
-- 🔭 I’m currently working as Student <img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
+- 🔭 I’m currently Fresh graduate <img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
  
 - 🌱 I’m currently learning data analysis and big data 
  
