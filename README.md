@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Yehia
 ![](https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif)
 
-**I am Software engineer, i do data analysis and interested in data science.**
+**I am Software engineer,I am data analyst and i am interested so much to data science.**
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/>
@@ -20,11 +20,11 @@
 </p>
 
 
-- 🔭 I’m currently Fresh graduate <img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
+- 🔭 I’m currently Junior <img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
  
-- 🌱 I’m currently learning data analysis and big data 
+- 🌱 I’m currently studying advanced sql and statistics.
  
-- 💬 Ask me about anime and code 
+- 💬 Ask me about data science and coding 
  
 - ⚡ Fun fact: I am in a relationship with sleeping 
 
