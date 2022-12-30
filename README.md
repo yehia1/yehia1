@@ -20,7 +20,7 @@
 </p>
 
 
-- 🔭 I’m currently Junior <img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
+- 🔭 I’m currently Junior Data Analyst<img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
  
 - 🌱 I’m currently studying advanced sql and statistics.
  
