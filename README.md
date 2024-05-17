@@ -26,7 +26,7 @@
  
 - 💬 Ask me about data science and coding 
  
-- ⚡ Fact: I am in a relationship with quran <3  
+- ⚡ Fact: I am in a relationship with quran :heart:  
 
 <p align = "center">
 <a href="https://www.linkedin.com/in/yehia-hossam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehia-mohamed-hossam-eldeen-a4a3331b7" height="30" width="40"></a> 
