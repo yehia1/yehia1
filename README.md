@@ -22,11 +22,11 @@
 
 - 🔭 I’m currently Junior Data Analyst <img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="30">
  
-- 🌱 I’m currently studying advanced sql and statistics.
+- 🌱 I’m currently studying DWH and Big Data.
  
 - 💬 Ask me about data science and coding 
  
-- ⚡ Fun fact: I am in a relationship with sleeping 
+- ⚡ Fact: I am in a relationship with quran <3  
 
 <p align = "center">
 <a href="https://www.linkedin.com/in/yehia-hossam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehia-mohamed-hossam-eldeen-a4a3331b7" height="30" width="40"></a> 
